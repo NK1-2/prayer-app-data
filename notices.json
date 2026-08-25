@@ -8,8 +8,7 @@
     "description": "Join us for an evening of food, talks and activities.",
     "image": "",
     "startDate": "2026-08-25",
-    "endDate": "2026-09-05",
-    "important": false
+    "endDate": "2026-09-05"
   },
   {
     "id": "islamic-lecture-2026-09-12",
@@ -20,7 +19,6 @@
     "description": "Join us for an evening Islamic lecture at Masjid Mu'adh Ibn Jabal.",
     "image": "",
     "startDate": "2026-08-25",
-    "endDate": "2026-09-12",
-    "important": true
+    "endDate": "2026-09-12"
   }
 ]
