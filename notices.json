@@ -1,0 +1,26 @@
+[
+  {
+    "id": "community-event-2026-09-05",
+    "title": "Community Event",
+    "date": "Saturday 5 September",
+    "time": "6:30 PM",
+    "type": "event",
+    "description": "Join us for an evening of food, talks and activities.",
+    "image": "",
+    "startDate": "2026-08-25",
+    "endDate": "2026-09-05",
+    "important": false
+  },
+  {
+    "id": "islamic-lecture-2026-09-12",
+    "title": "Islamic Lecture",
+    "date": "Saturday 12 September",
+    "time": "7:00 PM",
+    "type": "class",
+    "description": "Join us for an evening Islamic lecture at Masjid Mu'adh Ibn Jabal.",
+    "image": "",
+    "startDate": "2026-08-25",
+    "endDate": "2026-09-12",
+    "important": true
+  }
+]
