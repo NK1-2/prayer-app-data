@@ -1,12 +1,12 @@
 [
   {
     "id": "community-event-2026-09-05",
-    "title": "Community Event",
-    "date": "Saturday 5 September",
-    "time": "6:30 PM",
+    "title": "Mindsavers Workshop",
+    "date": "Saturday 8th August",
+    "time": "2:00 PM",
     "type": "event",
-    "description": "Join us for an evening of food, talks and activities.",
-    "image": "",
+    "description": "Delievered by healthcare professionals.",
+    "image": "https://raw.githubusercontent.com/NK1-2/prayer-app-data/main/notices/PHOTO-2026-07-22-15-29-53.jpg,
     "startDate": "2026-08-25",
     "endDate": "2026-09-05"
   },
